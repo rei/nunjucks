@@ -4,8 +4,7 @@
     "version": "1.3.4",
     "author": "James Long <longster@gmail.com>",
     "dependencies": {
-        "optimist": "*",
-        "chokidar": "~0.12.5"
+        "optimist": "*"
     },
     "browser" : "./browser/nunjucks.js",
     "devDependencies": {
